@@ -20,7 +20,7 @@ nas_list_dir_no_f = res_dir + r'\nasdaq_list.csv'
 
 '''access keys'''
 #access keys
-fmp_api_key = '3ff3b91874934c2e8f17b7908e9ba178'
+fmp_api_key = 
 
 '''data import'''
 #import local 
